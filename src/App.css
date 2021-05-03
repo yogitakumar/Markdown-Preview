@@ -1,0 +1,17 @@
+.App {
+
+}
+.App h1{
+color: #8e44ad;
+text-align: center;
+}
+
+.App .row{
+
+  margin-left: 50px;
+}
+
+#editor,#preview{
+  min-height: 200px;
+  color:red;
+}
